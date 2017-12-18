@@ -1,0 +1,14 @@
+\usepackage{lipsum}
+\usepackage{titletoc}
+\usepackage{lastpage}
+\usepackage{macro/macro}
+\usepackage{float}
+\usepackage{wrapfig}
+\usepackage{fancyhdr}
+\usepackage{verbatim}
+\usepackage{scrextend}
+
+\usepackage[Glenn]{fncychap}
+\lhead{\large\bfseries\   }
+\usepackage[left=3.5cm, right=1.25cm, top=2.5cm, bottom=1.25cm]{geometry}
+\pagestyle{fancy}
